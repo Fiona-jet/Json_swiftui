@@ -1,3 +1,8 @@
+## Roll : 2007089
+
+
+
+
 # Json_swiftui
 Json_SwiftUI
 A SwiftUI project showcasing how to work with JSON data in an iOS application. This project demonstrates the process of decoding JSON data, rendering it dynamically in SwiftUI views, and implementing clean and efficient data handling practices.
